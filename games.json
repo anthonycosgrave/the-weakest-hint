@@ -1,0 +1,918 @@
+[
+  {
+    "game":"The Oregon Trail",
+    "genre":"Strategy"
+  },
+  {
+    "game":"Pong",
+    "genre":"Sports"
+  },
+  {
+    "game":"Space Invaders",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Asteroids",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Battlezone",
+    "genre":"Vehicle simulation"
+  },
+  {
+    "game":"Missile Command",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Pac-Man",
+    "genre":"Maze"
+  },
+  {
+    "game":"Centipede",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Defender",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Donkey Kong",
+    "genre":"Platform"
+  },
+  {
+    "game":"Frogger",
+    "genre":"Action"
+  },
+  {
+    "game":"Galaga",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Tempest",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Joust",
+    "genre":"Action"
+  },
+  {
+    "game":"Ms. Pac-Man",
+    "genre":"Maze"
+  },
+  {
+    "game":"Pitfall!",
+    "genre":"Platform"
+  },
+  {
+    "game":"Robotron: 2084",
+    "genre":"Top-down shooter"
+  },
+  {
+    "game":"Lode Runner",
+    "genre":"Platform"
+  },
+  {
+    "game":"M.U.L.E.",
+    "genre":"Business simulation"
+  },
+  {
+    "game":"Marble Madness",
+    "genre":"Action"
+  },
+  {
+    "game":"Gauntlet",
+    "genre":"Hack and slash"
+  },
+  {
+    "game":"Ghosts 'n Goblins",
+    "genre":"Platform"
+  },
+  {
+    "game":"Super Mario Bros.",
+    "genre":"Platform"
+  },
+  {
+    "game":"Tetris",
+    "genre":"Puzzle"
+  },
+  {
+    "game":"Ultima IV: Quest of the Avatar",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Arkanoid",
+    "genre":"Block breaker"
+  },
+  {
+    "game":"Bubble Bobble",
+    "genre":"Platform"
+  },
+  {
+    "game":"The Legend of Zelda",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Out Run",
+    "genre":"Racing"
+  },
+  {
+    "game":"Contra",
+    "genre":"Run and gun"
+  },
+  {
+    "game":"Double Dragon",
+    "genre":"Beat 'em up"
+  },
+  {
+    "game":"Dungeon Master",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Mike Tyson's Punch-Out!!",
+    "genre":"Sports"
+  },
+  {
+    "game":"R-Type",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Sid Meier's Pirates!",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Mega Man 2",
+    "genre":"Platform"
+  },
+  {
+    "game":"Ninja Gaiden",
+    "genre":"Platform"
+  },
+  {
+    "game":"Final Fight",
+    "genre":"Beat 'em up"
+  },
+  {
+    "game":"Populous",
+    "genre":"God game"
+  },
+  {
+    "game":"Prince of Persia",
+    "genre":"Platform"
+  },
+  {
+    "game":"SimCity",
+    "genre":"City-building"
+  },
+  {
+    "game":"The Secret of Monkey Island",
+    "genre":"Adventure"
+  },
+  {
+    "game":"Super Mario World",
+    "genre":"Platform"
+  },
+  {
+    "game":"Wing Commander",
+    "genre":"Space flight simulator"
+  },
+  {
+    "game":"Another World",
+    "genre":"Platform"
+  },
+  {
+    "game":"Civilization",
+    "genre":"Turn-based strategy"
+  },
+  {
+    "game":"Final Fantasy IV",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Lemmings",
+    "genre":"Puzzle"
+  },
+  {
+    "game":"Sonic the Hedgehog",
+    "genre":"Platform"
+  },
+  {
+    "game":"Street Fighter II",
+    "genre":"Fighting"
+  },
+  {
+    "game":"Super Castlevania IV",
+    "genre":"Platform"
+  },
+  {
+    "game":"Alone in the Dark",
+    "genre":"Survival horror"
+  },
+  {
+    "game":"Dune II",
+    "genre":"Real-time strategy"
+  },
+  {
+    "game":"Flashback",
+    "genre":"Platform"
+  },
+  {
+    "game":"Indiana Jones and the Fate of Atlantis",
+    "genre":"Adventure"
+  },
+  {
+    "game":"Mortal Kombat",
+    "genre":"Fighting"
+  },
+  {
+    "game":"Sensible Soccer",
+    "genre":"Sports"
+  },
+  {
+    "game":"Streets of Rage 2",
+    "genre":"Beat 'em up"
+  },
+  {
+    "game":"Super Mario Kart",
+    "genre":"Kart racing"
+  },
+  {
+    "game":"Virtua Racing",
+    "genre":"Racing"
+  },
+  {
+    "game":"Wolfenstein 3D",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Day of the Tentacle",
+    "genre":"Adventure"
+  },
+  {
+    "game":"Doom",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Myst",
+    "genre":"Adventure"
+  },
+  {
+    "game":"NBA Jam",
+    "genre":"Sports"
+  },
+  {
+    "game":"Ridge Racer",
+    "genre":"Racing"
+  },
+  {
+    "game":"Secret of Mana",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Samurai Shodown",
+    "genre":"Fighting"
+  },
+  {
+    "game":"Star Fox",
+    "genre":"Rail shooter"
+  },
+  {
+    "game":"Syndicate",
+    "genre":"Real-time tactics"
+  },
+  {
+    "game":"Daytona USA",
+    "genre":"Racing"
+  },
+  {
+    "game":"Donkey Kong Country",
+    "genre":"Platform"
+  },
+  {
+    "game":"EarthBound",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Sensible World of Soccer",
+    "genre":"Sports"
+  },
+  {
+    "game":"Super Metroid",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Theme Park",
+    "genre":"Business simulation"
+  },
+  {
+    "game":"Virtua Fighter 2",
+    "genre":"Fighting"
+  },
+  {
+    "game":"X-COM: UFO Defense",
+    "genre":"Turn-based strategy"
+  },
+  {
+    "game":"Chrono Trigger",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Command & Conquer",
+    "genre":"Real-time strategy"
+  },
+  {
+    "game":"Sega Rally Championship",
+    "genre":"Racing"
+  },
+  {
+    "game":"Warcraft II: Tides of Darkness",
+    "genre":"Real-time strategy"
+  },
+  {
+    "game":"Wipeout",
+    "genre":"Racing"
+  },
+  {
+    "game":"Worms",
+    "genre":"Artillery"
+  },
+  {
+    "game":"Duke Nukem 3D",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Mario Kart 64",
+    "genre":"Kart racing"
+  },
+  {
+    "game":"PaRappa the Rapper",
+    "genre":"Rhythm"
+  },
+  {
+    "game":"Pok\u00e9mon Red and Blue",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Quake",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Resident Evil",
+    "genre":"Survival horror"
+  },
+  {
+    "game":"Super Mario 64",
+    "genre":"Platform"
+  },
+  {
+    "game":"Tomb Raider",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Age of Empires",
+    "genre":"Real-time strategy"
+  },
+  {
+    "game":"Castlevania: Symphony of the Night",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Diablo",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Fallout",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Final Fantasy Tactics",
+    "genre":"Tactical role-playing"
+  },
+  {
+    "game":"GoldenEye 007",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Gran Turismo",
+    "genre":"Racing"
+  },
+  {
+    "game":"Grand Theft Auto",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Star Wars Jedi Knight: Dark Forces II",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Tekken 3",
+    "genre":"Fighting"
+  },
+  {
+    "game":"Total Annihilation",
+    "genre":"Real-time strategy"
+  },
+  {
+    "game":"Ultima Online",
+    "genre":"MMORPG"
+  },
+  {
+    "game":"Baldur's Gate",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Banjo-Kazooie",
+    "genre":"Platform"
+  },
+  {
+    "game":"Crash Bandicoot: Warped",
+    "genre":"Platform"
+  },
+  {
+    "game":"Dance Dance Revolution",
+    "genre":"Rhythm"
+  },
+  {
+    "game":"Grim Fandango",
+    "genre":"Adventure"
+  },
+  {
+    "game":"Half-Life",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Metal Gear Solid",
+    "genre":"Stealth"
+  },
+  {
+    "game":"Panzer Dragoon Saga",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Soulcalibur",
+    "genre":"Fighting"
+  },
+  {
+    "game":"StarCraft",
+    "genre":"Real-time strategy"
+  },
+  {
+    "game":"Suikoden II",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Thief: The Dark Project",
+    "genre":"Stealth"
+  },
+  {
+    "game":"EverQuest",
+    "genre":"MMORPG"
+  },
+  {
+    "game":"Homeworld",
+    "genre":"Real-time strategy"
+  },
+  {
+    "game":"Planescape: Torment",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Pok\u00e9mon Gold and Silver",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Shenmue",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Silent Hill",
+    "genre":"Survival horror"
+  },
+  {
+    "game":"System Shock 2",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Tony Hawk's Pro Skater",
+    "genre":"Sports"
+  },
+  {
+    "game":"Unreal Tournament",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Counter-Strike",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Deus Ex",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Jet Set Radio",
+    "genre":"Action"
+  },
+  {
+    "game":"Perfect Dark",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"The Sims",
+    "genre":"Life simulation"
+  },
+  {
+    "game":"Animal Crossing",
+    "genre":"Life simulation"
+  },
+  {
+    "game":"Devil May Cry",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Halo: Combat Evolved",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Ico",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Ikaruga",
+    "genre":"Shoot 'em up"
+  },
+  {
+    "game":"Max Payne",
+    "genre":"Third-person shooter"
+  },
+  {
+    "game":"Phoenix Wright: Ace Attorney",
+    "genre":"Adventure"
+  },
+  {
+    "game":"Rez",
+    "genre":"Rail shooter"
+  },
+  {
+    "game":"Super Smash Bros. Melee",
+    "genre":"Fighting"
+  },
+  {
+    "game":"Battlefield 1942",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"The Elder Scrolls III: Morrowind",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Eternal Darkness: Sanity's Requiem",
+    "genre":"Survival horror"
+  },
+  {
+    "game":"Kingdom Hearts",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Metroid Prime",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Tom Clancy's Splinter Cell",
+    "genre":"Stealth"
+  },
+  {
+    "game":"Beyond Good & Evil",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"F-Zero GX",
+    "genre":"Racing"
+  },
+  {
+    "game":"Burnout 3: Takedown",
+    "genre":"Racing"
+  },
+  {
+    "game":"The Chronicles of Riddick: Escape from Butcher Bay",
+    "genre":"Stealth"
+  },
+  {
+    "game":"Dragon Quest VIII",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Katamari Damacy",
+    "genre":"Action"
+  },
+  {
+    "game":"Paper Mario: The Thousand-Year Door",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Rome: Total War",
+    "genre":"Strategy"
+  },
+  {
+    "game":"World of Warcraft",
+    "genre":"MMORPG"
+  },
+  {
+    "game":"Call of Duty 2",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"God of War",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Guitar Hero",
+    "genre":"Rhythm"
+  },
+  {
+    "game":"Psychonauts",
+    "genre":"Platform"
+  },
+  {
+    "game":"Shadow of the Colossus",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Company of Heroes",
+    "genre":"Real-time strategy"
+  },
+  {
+    "game":"Gears of War",
+    "genre":"Third-person shooter"
+  },
+  {
+    "game":"Hitman: Blood Money",
+    "genre":"Stealth"
+  },
+  {
+    "game":"\u014ckami",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Wii Sports",
+    "genre":"Sports"
+  },
+  {
+    "game":"BioShock",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Mass Effect",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Peggle",
+    "genre":"Puzzle"
+  },
+  {
+    "game":"Portal",
+    "genre":"Puzzle-platform"
+  },
+  {
+    "game":"Rock Band",
+    "genre":"Rhythm"
+  },
+  {
+    "game":"Super Mario Galaxy",
+    "genre":"Platform"
+  },
+  {
+    "game":"Team Fortress 2",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Braid",
+    "genre":"Puzzle-platform"
+  },
+  {
+    "game":"Burnout Paradise",
+    "genre":"Racing"
+  },
+  {
+    "game":"Dead Space",
+    "genre":"Survival horror"
+  },
+  {
+    "game":"Fable II",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Left 4 Dead",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"LittleBigPlanet",
+    "genre":"Platform"
+  },
+  {
+    "game":"Persona 4",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Spelunky",
+    "genre":"Platform"
+  },
+  {
+    "game":"Super Smash Bros. Brawl",
+    "genre":"Fighting"
+  },
+  {
+    "game":"Angry Birds",
+    "genre":"Puzzle"
+  },
+  {
+    "game":"Assassin's Creed II",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Batman: Arkham Asylum",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Bayonetta",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Borderlands",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Demon's Souls",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Dragon Age: Origins",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"League of Legends",
+    "genre":"MOBA"
+  },
+  {
+    "game":"Plants vs. Zombies",
+    "genre":"Tower defense"
+  },
+  {
+    "game":"Uncharted 2: Among Thieves",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Heavy Rain",
+    "genre":"Adventure"
+  },
+  {
+    "game":"Limbo",
+    "genre":"Puzzle-platform"
+  },
+  {
+    "game":"Red Dead Redemption",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Super Meat Boy",
+    "genre":"Platform"
+  },
+  {
+    "game":"Xenoblade Chronicles",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Dark Souls",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Minecraft",
+    "genre":"Sandbox"
+  },
+  {
+    "game":"Dishonored",
+    "genre":"Stealth"
+  },
+  {
+    "game":"Far Cry 3",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Hotline Miami",
+    "genre":"Top-down shooter"
+  },
+  {
+    "game":"Journey",
+    "genre":"Adventure"
+  },
+  {
+    "game":"The Walking Dead",
+    "genre":"Adventure"
+  },
+  {
+    "game":"XCOM: Enemy Unknown",
+    "genre":"Turn-based strategy"
+  },
+  {
+    "game":"BioShock Infinite",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Dota 2",
+    "genre":"MOBA"
+  },
+  {
+    "game":"Final Fantasy XIV: A Realm Reborn",
+    "genre":"MMORPG"
+  },
+  {
+    "game":"The Last of Us",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Papers, Please",
+    "genre":"Puzzle"
+  },
+  {
+    "game":"Alien: Isolation",
+    "genre":"Survival horror"
+  },
+  {
+    "game":"Destiny",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Hearthstone",
+    "genre":"Digital collectible card"
+  },
+  {
+    "game":"Shovel Knight",
+    "genre":"Platform"
+  },
+  {
+    "game":"Bloodborne",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Rocket League",
+    "genre":"Sports"
+  },
+  {
+    "game":"Undertale",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"The Witcher 3: Wild Hunt",
+    "genre":"Action role-playing"
+  },
+  {
+    "game":"Inside",
+    "genre":"Puzzle-platform"
+  },
+  {
+    "game":"Overwatch",
+    "genre":"First-person shooter"
+  },
+  {
+    "game":"Stardew Valley",
+    "genre":"Farm life simulation"
+  },
+  {
+    "game":"The Witness",
+    "genre":"Puzzle"
+  },
+  {
+    "game":"Fortnite",
+    "genre":"Third-person shooter"
+  },
+  {
+    "game":"Hollow Knight",
+    "genre":"Action-adventure"
+  },
+  {
+    "game":"Super Mario Odyssey",
+    "genre":"Platform"
+  },
+  {
+    "game":"Celeste",
+    "genre":"Platform"
+  },
+  {
+    "game":"Return of the Obra Dinn",
+    "genre":"Adventure"
+  },
+  {
+    "game":"Super Smash Bros. Ultimate",
+    "genre":"Fighting"
+  },
+  {
+    "game":"Disco Elysium",
+    "genre":"Role-playing"
+  },
+  {
+    "game":"Hades",
+    "genre":"Roguelike"
+  },
+  {
+    "game":"Elden Ring",
+    "genre":"Action role-playing"
+  }
+]

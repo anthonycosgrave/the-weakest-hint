@@ -1,0 +1,6 @@
+python-fasthtml
+beautifulsoup4
+pandas
+httpx
+huggingface_hub
+lxml
